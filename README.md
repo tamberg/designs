@@ -33,6 +33,7 @@ Sep 27, 2009
 Oct 12, 2010
 
 <img src="Bike_Handle_Plug.jpg" width="512" />
+<img src="Bike_Handle_Plug_2.jpg" width="160" />
 
 > Very useful thing! — bre
 
