@@ -14,7 +14,8 @@ Sep 13, 2009
 Sep 14, 2009
 
 <img src="Big_45_Adapter.jpg" width="512" />
-<img src="Big_45_Adapter_2.jpg" width="160" /> <img src="Big_45_Adapter_3.jpg" width="160" />
+<img src="Big_45_Adapter_2.jpg" width="160" />
+<img src="Big_45_Adapter_3.jpg" width="160" />
 
 * <a href="https://www.thingiverse.com/thing:1006">Original</a>
 * <a href="../../raw/master/Big_45_Adapter.zip">Backup</a>
