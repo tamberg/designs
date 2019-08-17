@@ -54,7 +54,7 @@ Feb 9, 2011
 Jan 8, 2012
 
 <img src="Wu_Afro_Pick.jpg" width="512" />
-<img src="Wu_Afro_Pick.jpg" width="160" />
+<img src="Wu_Afro_Pick_2.jpg" width="160" />
 
 * <a href="https://www.thingiverse.com/thing:15608">Original</a>
 * <a href="../../raw/master/Wu_Afro_Pick.zip">Backup</a>
