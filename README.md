@@ -44,8 +44,8 @@ Oct 12, 2010
 Feb 9, 2011
 
 <img src="Cable_Fixture.jpg" width="512" />
-<img src="Cable_Fixture_2.jpg" width="512" />
-<img src="Cable_Fixture_3.jpg" width="512" />
+<img src="Cable_Fixture_2.jpg" width="160" />
+<img src="Cable_Fixture_3.jpg" width="160" />
 
 * <a href="https://www.thingiverse.com/thing:6254">Original</a>
 * <a href="../../raw/master/Cable_Fixture.zip">Backup</a>
