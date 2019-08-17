@@ -1,5 +1,5 @@
 # Designs
-A collection of <a href="https://twitter.com/tamberg">@tamberg</a>'s 2D/3D designs, originally published on <a href="http://thingiverse.com">Thingiverse</a>, (re)licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+A collection of <a href="https://twitter.com/tamberg">@tamberg</a>'s 2D/3D designs, originally <a href="https://www.thingiverse.com/tamberg/designs">published</a> on <a href="http://thingiverse.com">Thingiverse</a>, (re)licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 
 ## 45 Adapter
 Sep 13, 2009
