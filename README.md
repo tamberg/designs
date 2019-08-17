@@ -59,21 +59,23 @@ Jan 8, 2012
 * <a href="https://www.thingiverse.com/thing:15608">Original</a>
 * <a href="../../raw/master/Wu_Afro_Pick.zip">Backup</a>
 
-## Title
+## Shaolin Afro Pick
+Jan 8, 2012
+
+<img src="Shaolin_Afro_Pick.jpg" width="512" />
+
+* <a href="https://www.thingiverse.com/thing:15609">Original</a>
+* <a href="../../raw/master/Shaolin_Afro_Pick.zip">Backup</a>
+
+## Dipset Afro Pick
 Date
 
-<img src="XXX.jpg" width="512" />
+<img src="Dipset_Afro_Pick.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+> A Wu-Tang Logo pick that says Dipset lmaooooo. Somebody was confused as fuck when they made this bullshit — Anonymous
 
-## Title
-Date
-
-<img src="XXX.jpg" width="512" />
-
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:15619">Original</a>
+* <a href="../../raw/master/Dipset_Afro_Pick.zip">Backup</a>
 
 ## Title
 Date
