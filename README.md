@@ -1,5 +1,5 @@
 # Designs
-A collection of @tamberg's 2D/3D designs, originally published on Thingiverse.
+A collection of <a href="https://twitter.com/tamberg">@tamberg</a>'s 2D/3D designs, originally published on <a href="http://thingiverse.com">Thingiverse</a>.
 
 ## 45 Adapter
 Sep 13, 2009
