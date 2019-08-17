@@ -184,8 +184,8 @@ Apr 1, 2012
 * <a href="https://www.thingiverse.com/thing:NNN">Original</a>
 * <a href="../../raw/master/Heat_Map_Relief.zip">Backup</a>
 
-## Mario (with Mario)
-Apr 1, 2012
+## Mario
+Apr 1, 2012 (with Mario)
 
 <img src="Mario.jpg" width="512" />
 
