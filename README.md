@@ -130,7 +130,7 @@ Feb 5, 2012
 Feb 9, 2012
 
 <img src="Bruder.jpg" width="512" />
-<img src="Bruder_2.jpg" width="512" />
+<img src="Bruder_2.jpg" width="160" />
 
 * <a href="https://www.thingiverse.com/thing:17307">Original</a>
 * <a href="../../raw/master/Bruder.zip">Backup</a>
