@@ -68,7 +68,7 @@ Jan 8, 2012
 * <a href="../../raw/master/Shaolin_Afro_Pick.zip">Backup</a>
 
 ## Dipset Afro Pick
-Date
+Jan 8, 2012
 
 <img src="Dipset_Afro_Pick.jpg" width="512" />
 
