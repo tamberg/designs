@@ -6,8 +6,8 @@ Sep 14, 2009
 
 <img src="Big_45_Adapter.jpg" />
 
-* <a href="Big_45_Adapter.zip">Download</a>
-* <a href="https://www.thingiverse.com/thing:1006">Thingiverse</a>
+* <a href="https://www.thingiverse.com/thing:1006">Original</a>
+* <a href="Big_45_Adapter.zip">Backup</a>
 
 ## Title
 Date
