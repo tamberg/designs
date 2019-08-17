@@ -147,7 +147,7 @@ Feb 13, 2012
 Feb 29, 2012
 
 <img src="WIMM_Android_Device_Display_Cover.jpg" width="512" />
-<img src="WIMM_Android_Device_Display_Cover.jpg" width="160" />
+<img src="WIMM_Android_Device_Display_Cover_2.jpg" width="160" />
 
 * <a href="https://www.thingiverse.com/thing:18355">Original</a>
 * <a href="../../raw/master/WIMM_Android_Device_Display_Cover.zip">Backup</a>
