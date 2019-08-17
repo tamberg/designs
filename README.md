@@ -113,6 +113,7 @@ Feb 1, 2012 (with <a href="http://0rel.com/">0rel</a>)
 Feb 5, 2012 (with <a href="http://www.gaudi.ch/GaudiLabs/">Urs</a>)
 
 <img src="Theremin_Coil_Body.jpg" width="512" />
+<img src="Theremin_Coil_Body_2.jpg" width="160" />
 
 * <a href="https://www.thingiverse.com/thing:16789">Original</a>
 * <a href="../../raw/master/Theremin_Coil_Body.zip">Backup</a>
