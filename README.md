@@ -191,8 +191,8 @@ Date
 
 * <a href="https://www.thingiverse.com/thing:NNN">Original</a>
 * <a href="../../raw/master/XXX.zip">Backup</a>
-* Info
-    http://make.opendata.ch/doku.php?id=project:transport:tangiblestatistics
+
+> http://make.opendata.ch/doku.php?id=project:transport:tangiblestatistics
 
 ## Title
 Date
