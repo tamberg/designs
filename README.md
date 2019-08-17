@@ -40,13 +40,15 @@ Oct 12, 2010
 * <a href="https://www.thingiverse.com/thing:4416">Original</a>
 * <a href="../../raw/master/Bike_Handle_Plug.zip">Backup</a>
 
-## Title
-Date
+## Cable Fixture
+Feb 9, 2011
 
-<img src="XXX.jpg" width="512" />
+<img src="Cable_Fixture.jpg" width="512" />
+<img src="Cable_Fixture_2.jpg" width="512" />
+<img src="Cable_Fixture_3.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:6254">Original</a>
+* <a href="../../raw/master/Cable_Fixture.zip">Backup</a>
 
 ## Title
 Date
