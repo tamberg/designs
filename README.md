@@ -35,7 +35,7 @@ Oct 12, 2010
 <img src="Bike_Handle_Plug.jpg" width="512" />
 <img src="Bike_Handle_Plug_2.jpg" width="160" />
 
-> Very useful thing! — bre
+> Very useful thing! — <a href="https://twitter.com/bre">@bre</a>
 
 * <a href="https://www.thingiverse.com/thing:4416">Original</a>
 * <a href="../../raw/master/Bike_Handle_Plug.zip">Backup</a>
