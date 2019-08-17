@@ -50,13 +50,14 @@ Feb 9, 2011
 * <a href="https://www.thingiverse.com/thing:6254">Original</a>
 * <a href="../../raw/master/Cable_Fixture.zip">Backup</a>
 
-## Title
-Date
+## Wu Afro Pick
+Jan 8, 2012
 
-<img src="XXX.jpg" width="512" />
+<img src="Wu_Afro_Pick.jpg" width="512" />
+<img src="Wu_Afro_Pick.jpg" width="160" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:15608">Original</a>
+* <a href="../../raw/master/Wu_Afro_Pick.zip">Backup</a>
 
 ## Title
 Date
