@@ -51,7 +51,7 @@ Feb 9, 2011
 * <a href="../../raw/master/Cable_Fixture.zip">Backup</a>
 
 ## Wu Afro Pick
-Jan 8, 2012
+Jan 8, 2012 (with Bea)
 
 <img src="Wu_Afro_Pick.jpg" width="512" />
 <img src="Wu_Afro_Pick_2.jpg" width="160" />
@@ -60,7 +60,7 @@ Jan 8, 2012
 * <a href="../../raw/master/Wu_Afro_Pick.zip">Backup</a>
 
 ## Shaolin Afro Pick
-Jan 8, 2012
+Jan 8, 2012 (with Bea)
 
 <img src="Shaolin_Afro_Pick.jpg" width="512" />
 
@@ -68,7 +68,7 @@ Jan 8, 2012
 * <a href="../../raw/master/Shaolin_Afro_Pick.zip">Backup</a>
 
 ## Dipset Afro Pick
-Jan 8, 2012
+Jan 8, 2012 (with Bea)
 
 <img src="Dipset_Afro_Pick.jpg" width="512" />
 
