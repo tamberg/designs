@@ -6,7 +6,8 @@ Sep 14, 2009
 
 <img src="Big_45_Adapter.jpg" />
 
-<a href="Big_45_Adapter.zip">Download ZIP</a>
+* On <a href="Big_45_Adapter.zip">Thingiverse</a>
+* <a href="Big_45_Adapter.zip">Backup</a>
 
 ## Title
 Date
