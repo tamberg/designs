@@ -93,21 +93,21 @@ Jan 22, 2012
 * <a href="https://www.thingiverse.com/thing:16364">Original</a>
 * <a href="../../raw/master/Gadgeteer_GHI_Fez_Spider_Base.zip">Backup</a>
 
-## Title
-Date
+## Wu Ring
+Jan 25, 2012
 
-<img src="XXX.jpg" width="512" />
+<img src="Wu_Ring.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:16511">Original</a>
+* <a href="../../raw/master/Wu_Ring.zip">Backup</a>
 
-## Title
-Date
+## Quaste 00b
+Feb 1, 2012 (with <a href="http://0rel.com/">0rel</a>)
 
-<img src="XXX.jpg" width="512" />
+<img src="Quaste_00b.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:16834">Original</a>
+* <a href="../../raw/master/Quaste_00b.zip">Backup</a>
 
 ## Title
 Date
