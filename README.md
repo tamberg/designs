@@ -219,10 +219,10 @@ Apr 6, 2012
 ## Masskrug iPhone adapter
 July 20, 2012
 
-<img src="Makrug_iPhone_adapter.jpg" width="512" />
+<img src="Masskrug_iPhone_adapter.jpg" width="512" />
 
 * <a href="https://www.thingiverse.com/thing:27132">Original</a>
-* <a href="../../raw/master/Makrug_iPhone_adapter.zip">Backup</a>
+* <a href="../../raw/master/Masskrug_iPhone_adapter.zip">Backup</a>
 
 ## Schrank Teil
 September 27, 2012
