@@ -336,21 +336,21 @@ Sep 19, 2014
 * <a href="https://www.thingiverse.com/thing:468460">Original</a>
 * <a href="../../raw/master/LittleBits_CloudBit_Masskrug_Adapter.zip">Backup</a>
 
-## Title
-Date
+## ÖSCÖLA Piegata
+Feb 24, 2015
 
-<img src="XXX.jpg" width="512" />
+<img src="OSCOLA_Piegata.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:695656">Original</a>
+* <a href="../../raw/master/OSCOLA_Piegata.zip">Backup</a>
 
-## Title
-Date
+## Simple Laser-cut Picture Frame 10 inch
+March 05, 2015
 
-<img src="XXX.jpg" width="512" />
+<img src="Simple_lasercut_picture_frame_10_inch.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:710591">Original</a>
+* <a href="../../raw/master/Simple_lasercut_picture_frame_10_inch.zip">Backup</a>
 
 ## Title
 Date
