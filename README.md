@@ -360,13 +360,13 @@ Mar 08, 2015
 * <a href="https://www.thingiverse.com/thing:714413">Original</a>
 * <a href="../../raw/master/Bulb_Joint.zip">Backup</a>
 
-## Title
-Date
+## Jigsaw Mitre Joint
+Mar 28, 2015
 
-<img src="XXX.jpg" width="512" />
+<img src="Jigsaw_Mitre_Joint.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:744527">Original</a>
+* <a href="../../raw/master/Jigsaw_Mitre_Joint.zip">Backup</a>
 
 ## Title
 Date
