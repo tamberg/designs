@@ -347,10 +347,10 @@ Feb 24, 2015
 ## Simple Laser-cut Picture Frame 10 inch
 March 05, 2015
 
-<img src="Simple_lasercut_picture_frame_10_inch.jpg" width="512" />
+<img src="Simple_Lasercut_Picture_Frame_10_inch.jpg" width="512" />
 
 * <a href="https://www.thingiverse.com/thing:710591">Original</a>
-* <a href="../../raw/master/Simple_lasercut_picture_frame_10_inch.zip">Backup</a>
+* <a href="../../raw/master/Simple_Lasercut_Picture_Frame_10_inch.zip">Backup</a>
 
 ## Title
 Date
