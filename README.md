@@ -320,21 +320,21 @@ Aug 15, 2014
 * <a href="https://www.thingiverse.com/thing:429140">Original</a>
 * <a href="../../raw/master/Tiny_Breadboard_Masskrug_Adapter.zip">Backup</a>
 
-## Title
-Date
+## IoT Gauge
+Sep 06, 2014
 
-<img src="XXX.jpg" width="512" />
+<img src="IoT_Gauge.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:453788">Original</a>
+* <a href="../../raw/master/IoT_Gauge.zip">Backup</a>
 
-## Title
-Date
+## LittleBits CloudBit Masskrug Adapter
+Sep 19, 2014
 
-<img src="XXX.jpg" width="512" />
+<img src="LittleBits_CloudBit_Masskrug_Adapter.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:468460">Original</a>
+* <a href="../../raw/master/LittleBits_CloudBit_Masskrug_Adapter.zip">Backup</a>
 
 ## Title
 Date
