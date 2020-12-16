@@ -217,7 +217,7 @@ Apr 6, 2012
 * <a href="../../raw/master/Cublet2_Egg_Cup.zip">Backup</a>
 
 ## Masskrug iPhone adapter
-July 20, 2012
+Jul 20, 2012
 
 <img src="Masskrug_iPhone_adapter.jpg" width="512" />
 
@@ -225,7 +225,7 @@ July 20, 2012
 * <a href="../../raw/master/Masskrug_iPhone_adapter.zip">Backup</a>
 
 ## Schrank Teil
-September 27, 2012
+Sep 27, 2012
 
 <img src="Schrank_Teil.jpg" width="512" />
 
@@ -233,36 +233,36 @@ September 27, 2012
 * <a href="../../raw/master/Schrank_Teil.zip">Backup</a>
 
 ## Spool Clip Animals
-March 18, 2013
+Mar 18, 2013
 
 <img src="Spool_Clip_Animals.jpg" width="512" />
 
 * <a href="https://www.thingiverse.com/thing:63063">Original</a>
 * <a href="../../raw/master/Spool_Clip_Animals.zip">Backup</a>
 
-## Title
-Date
+## Laser-cut AirCasting Sensor
+Jun 10, 2013
 
-<img src="XXX.jpg" width="512" />
+<img src="Laser-cut_AirCasting_Sensor.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:98221">Original</a>
+* <a href="../../raw/master/Laser-cut_AirCasting_Sensor.zip">Backup</a>
 
-## Title
-Date
+## Kindle Display Case
+Sep 09, 2013
 
-<img src="XXX.jpg" width="512" />
+<img src="Kindle_Display_Case.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:148319">Original</a>
+* <a href="../../raw/master/Kindle_Display_Case.zip">Backup</a>
 
-## Title
-Date
+## Masskrug Arduino Adapter
+Sep 28, 2013
 
-<img src="XXX.jpg" width="512" />
+<img src="Masskrug_Arduino_Adapter.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:157538">Original</a>
+* <a href="../../raw/master/Masskrug_Arduino_Adapter.zip">Backup</a>
 
 ## Title
 Date
