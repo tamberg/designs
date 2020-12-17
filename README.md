@@ -496,37 +496,37 @@ Feb 17, 2017
 * <a href="https://www.thingiverse.com/thing:2116468">Original</a>
 * <a href="../../raw/master/Toni_Joghurt_DHT22_LoRa_Remix.zip">Backup</a>
 
-## Title
-Date
+## PLA Adapter
+Feb 26, 2017
 
-<img src="XXX.jpg" width="512" />
+<img src="PLA_Adapter.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:2137939">Original</a>
+* <a href="../../raw/master/PLA_Adapter.zip">Backup</a>
 
-## Title
-Date
+## Ode to Shiv Integer
+Mar 24, 2017
 
-<img src="XXX.jpg" width="512" />
+<img src="Ode_to_Shiv_Integer.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:2200882">Original</a>
+* <a href="../../raw/master/Ode_to_Shiv_Integer.zip">Backup</a>
 
-## Title
-Date
+## Laser-cut Spinner
+May 26, 2017
 
-<img src="XXX.jpg" width="512" />
+<img src="Laser-cut_Spinner.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:2347037">Original</a>
+* <a href="../../raw/master/Laser-cut_Spinner.zip">Backup</a>
 
-## Title
-Date
+## Laser-cut Ping Pong Paddle
+May 27, 2017
 
-<img src="XXX.jpg" width="512" />
+<img src="Laser-cut_Ping_Pong_Paddle.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:2347457">Original</a>
+* <a href="../../raw/master/Laser-cut_Ping_Pong_Paddle.zip">Backup</a>
 
 ## Title
 Date
