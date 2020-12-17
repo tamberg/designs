@@ -432,29 +432,29 @@ Oct 11, 2015
 * <a href="https://www.thingiverse.com/thing:1064936">Original</a>
 * <a href="../../raw/master/Simple_Laser-cut_Picture_Frame_7_inch_Banana_Pi.zip">Backup</a>
 
-## Title
-Date
+## DIY 3D Tilt Sensor Inductive Power Adapter
+Oct 14, 2015
 
-<img src="XXX.jpg" width="512" />
+<img src="DIY_3D_Tilt_Sensor_Inductive_Power_Adapter.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:1071553">Original</a>
+* <a href="../../raw/master/DIY_3D_Tilt_Sensor_Inductive_Power_Adapter.zip">Backup</a>
 
-## Title
-Date
+## DIY Photo Frame
+Nov 05, 2015
 
-<img src="XXX.jpg" width="512" />
+<img src="DIY_Photo_Frame.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:1113900">Original</a>
+* <a href="../../raw/master/DIY_Photo_Frame.zip">Backup</a>
 
-## Title
-Date
+## ESP Clock
+Nov 16, 2015
 
-<img src="XXX.jpg" width="512" />
+<img src="ESP_Clock.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:1134525">Original</a>
+* <a href="../../raw/master/ESP_Clock.zip">Backup</a>
 
 ## Title
 Date
