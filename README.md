@@ -456,37 +456,37 @@ Nov 16, 2015
 * <a href="https://www.thingiverse.com/thing:1134525">Original</a>
 * <a href="../../raw/master/ESP_Clock.zip">Backup</a>
 
-## Title
-Date
+## IMST iC880a Raspberry Pi 3 Ensto Adapter
+Jul 09, 2016
 
-<img src="XXX.jpg" width="512" />
+<img src="IMST_iC880a_Raspberry_Pi_3_Ensto_Adapter.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:1665467">Original</a>
+* <a href="../../raw/master/IMST_iC880a_Raspberry_Pi_3_Ensto_Adapter.zip">Backup</a>
 
-## Title
-Date
+## Toni Joghurt Teensy 3.5 DHT22 Logger
+Nov 26, 2016
 
-<img src="XXX.jpg" width="512" />
+<img src="Toni_Joghurt_Teensy_3.5_DHT22_Logger.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:1918185">Original</a>
+* <a href="../../raw/master/Toni_Joghurt_Teensy_3.5_DHT22_Logger.zip">Backup</a>
 
-## Title
-Date
+## DIY Rotary Encoder
+Dec 16, 2016
 
-<img src="XXX.jpg" width="512" />
+<img src="DIY_Rotary_Encoder.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:1973914">Original</a>
+* <a href="../../raw/master/DIY_Rotary_Encoder.zip">Backup</a>
 
-## Title
-Date
+## Toni Joghurt DHT22 Plus (Remix)
+Jan 13, 2017
 
-<img src="XXX.jpg" width="512" />
+<img src="Toni_Joghurt_DHT22_Plus_Remix.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:2036214">Original</a>
+* <a href="../../raw/master/Toni_Joghurt_DHT22_Plus_Remix.zip">Backup</a>
 
 ## Title
 Date
