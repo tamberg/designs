@@ -488,13 +488,13 @@ Jan 13, 2017
 * <a href="https://www.thingiverse.com/thing:2036214">Original</a>
 * <a href="../../raw/master/Toni_Joghurt_DHT22_Plus_Remix.zip">Backup</a>
 
-## Title
-Date
+## Toni Joghurt DHT22 LoRa (Remix)
+Feb 17, 2017
 
-<img src="XXX.jpg" width="512" />
+<img src="Toni_Joghurt_DHT22_LoRa_Remix.jpg" width="512" />
 
-* <a href="https://www.thingiverse.com/thing:NNN">Original</a>
-* <a href="../../raw/master/XXX.zip">Backup</a>
+* <a href="https://www.thingiverse.com/thing:2116468">Original</a>
+* <a href="../../raw/master/Toni_Joghurt_DHT22_LoRa_Remix.zip">Backup</a>
 
 ## Title
 Date
