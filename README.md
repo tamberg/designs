@@ -719,3 +719,35 @@ Nov 01, 2020
 
 * <a href="https://www.thingiverse.com/thing:4640448">Original</a>
 * <a href="../../raw/master/Smart_Floor_Tile.zip">Backup</a>
+
+## AP10 ESS-C3 LoRaWAN Node
+Feb 10, 2021
+
+<img src="AP10_ESS_C3_LoRaWAN_Node.jpg" width="512" />
+
+* <a href="https://www.thingiverse.com/thing:4756958">Original</a>
+* <a href="../../raw/master/AP10_ESS_C3_LoRaWAN_Node.zip">Backup</a>
+
+## AP9 Fixture
+Feb 14, 2021
+
+<img src="AP9_Fixture.jpg" width="512" />
+
+* <a href="https://www.thingiverse.com/thing:4762526">Original</a>
+* <a href="../../raw/master/AP9_Fixture.zip">Backup</a>
+
+## IoT Brick OpenMV Cam H7
+Mar 07, 2021
+
+<img src="IoT_Brick_OpenMV_Cam_H7.jpg" width="512" />
+
+* <a href="https://www.thingiverse.com/thing:4787263">Original</a>
+* <a href="../../raw/master/IoT_Brick_OpenMV_Cam_H7.zip">Backup</a>
+
+## Design
+Dec 31, 2021
+
+<img src="Design.jpg" width="512" />
+
+* <a href="https://www.thingiverse.com/thing:???">Original</a>
+* <a href="../../raw/master/Design.zip">Backup</a>
